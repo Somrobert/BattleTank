@@ -1,5 +1,6 @@
 # BattleTank
 Open world BattleTank
-## Commitsű
+## Commits
 
 * BT01 Intro
+* BT02 GDD
